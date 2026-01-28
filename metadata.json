@@ -1,0 +1,5 @@
+{
+  "name": "Study Tracker",
+  "description": "A comprehensive study tracking application with Pomodoro timer, subject management, and statistics.",
+  "requestFramePermissions": []
+}
